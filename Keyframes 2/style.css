@@ -35,8 +35,8 @@ body {
     position: absolute;
     bottom: -1.3rem;
     left: 2rem;
-    border-left: 2px solid blue;
-    border-right: 17px solid red;
+    border-left: 2px solid transparent;
+    border-right: 17px solid transparent;
     border-top: 17px solid #949494;
 }
 
