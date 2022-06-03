@@ -17,7 +17,7 @@ body {
 .card {
     height: 400px;
     width: 500px;
-    background-image: url('./landscape.jpg');
+    background-image: url('./imagem.jpg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
